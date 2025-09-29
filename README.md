@@ -84,21 +84,7 @@ Machine-Learning/
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! 🚀  
-You can:
-- Add new algorithms (e.g. Decision Trees, Random Forests)  
-- Improve documentation & notebooks  
-- Add datasets for testing  
-
-Steps:
-1. Fork this repo  
-2. Create a new branch (`feature-new-model`)  
-3. Commit your changes  
-4. Open a Pull Request  
-
----
 
 ## 📜 License
 
